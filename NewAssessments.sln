@@ -5,6 +5,8 @@ VisualStudioVersion = 17.13.35931.197
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "event-scheduler-and-conflict-detector-api", "..\..\source\repos\backend-end-of-probation-exercises-v2\event-scheduler-and-conflict-detector-api\event-scheduler-and-conflict-detector-api.csproj", "{9AAC4A4B-026C-DC3F-7CB1-5A15F68CA5DF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "basic-inventory-management-api", "..\..\source\repos\backend-end-of-probation-exercises-v2\basic-inventory-management-api\basic-inventory-management-api.csproj", "{CFD194FB-1101-1B8D-341F-FD49C702458F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{9AAC4A4B-026C-DC3F-7CB1-5A15F68CA5DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9AAC4A4B-026C-DC3F-7CB1-5A15F68CA5DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9AAC4A4B-026C-DC3F-7CB1-5A15F68CA5DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CFD194FB-1101-1B8D-341F-FD49C702458F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFD194FB-1101-1B8D-341F-FD49C702458F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFD194FB-1101-1B8D-341F-FD49C702458F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFD194FB-1101-1B8D-341F-FD49C702458F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
